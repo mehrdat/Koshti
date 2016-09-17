@@ -1,0 +1,18 @@
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.csprojResolveAssemblyReference.cache
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.Form1.resources
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.Properties.Resources.resources
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.csproj.GenerateResource.Cache
+F:\Making\mosabegatKoshti\mosabegatKoshti\bin\Debug\mosabegatKoshti.exe
+F:\Making\mosabegatKoshti\mosabegatKoshti\bin\Debug\mosabegatKoshti.pdb
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.exe
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.pdb
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.exe
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.pdb
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\bin\Debug\mosabegatKoshti.exe
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\bin\Debug\mosabegatKoshti.pdb
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.csprojResolveAssemblyReference.cache
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.Form1.resources
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.Properties.Resources.resources
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.csproj.GenerateResource.Cache
+C:\Users\Mehrdad\Documents\Visual Studio 2013\Projects\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.about.resources
+F:\Making\mosabegatKoshti\mosabegatKoshti\obj\Debug\mosabegatKoshti.about.resources
